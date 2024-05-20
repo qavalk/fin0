@@ -30,6 +30,7 @@ nav a:hover{
 
 .part1{
     display:flex;
+    margin-left: 19%;
 }
 
 .mid1{
@@ -55,13 +56,13 @@ a:hover{
 }
 
 .knopka1{
-    margin-left: 80px;
+    margin-left: 40%;
 }
 hr{
     margin-top: 40px;
 }
 .mid2{
-    margin-top: 10vb;
+
     font-size: xx-large;
     margin-left: 45%;
     color: #fff;
@@ -76,9 +77,10 @@ hr{
     color: #fff;
 }
 .bro img{
-    border-radius: 40%;
+    border-radius: 10%;
     width: 800px;
     height: 600px;
+    margin-left: 5%;
 }
 .knopka2{
     margin-left: 1%;
@@ -86,6 +88,8 @@ hr{
 }
 .part2{
     margin-left: 50vb;
+    display: flex;
+    gap: 300px;
 }
 .dflex1{
     display: flex;
@@ -98,31 +102,29 @@ hr{
 }
 .div3{
     margin-top: 1px;
-    margin-left:3%;
+    margin-left:10%;
 }
 
 .div3 img{
-    border-radius: 10%;
     width: 350px;
-    margin-left:10%;
+    height: 400px;
 }
 .div4{
     margin-top: 1px;
-    margin-left: 20%;
+    margin-left: 10%;
     margin-right:10%;
 }
 .div4 img{
-    border-radius: 10%;
+    height: 400px;
     width:350px;
 }
 .div5{
     margin-top: 5px;
     margin-right:60%;
-    margin-left:10%;
 }
 
 .div5 img{
-    border-radius: 10%;
+    height: 400px;
     width: 350px;
 }
 .button-container{
@@ -205,4 +207,13 @@ input[type="submit"]:hover{
     border-radius: 100%;
     width: 100px;
     height: 100px;
+}
+.mp{
+    font-size: xx-large;
+    margin-left: 5%;
+    color: #fff;
+    margin-bottom: 10vb;
+}
+.dflex1{
+    display: flex;
 }
